@@ -27,3 +27,23 @@ With my personal laptop I have get a media of 1.500.000 comprobations per second
 Obsesor is intended for educational purposes and legitimate cybersecurity testing only. The developer does not condone or support any illegal activity, including unauthorized access to systems or data. Users are solely responsible for ensuring that their use of this tool complies with all applicable laws and regulations.
 
 By using Obsesor, you agree to use it responsibly and ethically. The developer assumes no liability for any misuse or damage caused by the use of this tool.
+
+## Installation (Arch Linux example)
+
+To install Obsesor you only need to clone this repository and run the installation script. Obsesor offers three different scripts depending on what distribution you are using:
+
+  Arch Linux (using pacman)
+  Fedora (using dnf)
+  Debian (using apt)
+
+First clone the repository:
+
+  git clone https://github.com/UnknownArtistt/Obsesor
+
+Give execution permissions to the script:
+
+  chmod +x obsesor_arch.sh
+
+Run the script:
+
+  ./obsesor_arch.sh
