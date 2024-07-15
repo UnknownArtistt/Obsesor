@@ -36,14 +36,18 @@ To install Obsesor you only need to clone this repository and run the installati
     Fedora (using dnf)
     Debian (using apt)
 
-First clone the repository:
+First, clone the repository:
 
     git clone https://github.com/UnknownArtistt/Obsesor
 
-Give execution permissions to the script:
+Give execution permissions to the script <b>(use the script for your distribution)</b>:
 
     chmod +x obsesor_arch.sh
 
 Run the script:
 
     ./obsesor_arch.sh
+
+To run normally you can use the script or you can execute with python also:
+
+    python obsesor.py
