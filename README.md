@@ -32,18 +32,18 @@ By using Obsesor, you agree to use it responsibly and ethically. The developer a
 
 To install Obsesor you only need to clone this repository and run the installation script. Obsesor offers three different scripts depending on what distribution you are using:
 
-  Arch Linux (using pacman)
-  Fedora (using dnf)
-  Debian (using apt)
+    Arch Linux (using pacman)
+    Fedora (using dnf)
+    Debian (using apt)
 
 First clone the repository:
 
-  git clone https://github.com/UnknownArtistt/Obsesor
+    git clone https://github.com/UnknownArtistt/Obsesor
 
 Give execution permissions to the script:
 
-  chmod +x obsesor_arch.sh
+    chmod +x obsesor_arch.sh
 
 Run the script:
 
-  ./obsesor_arch.sh
+    ./obsesor_arch.sh
